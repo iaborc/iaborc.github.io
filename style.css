@@ -167,6 +167,9 @@ body {
   z-index: 300;
   background-color: #FFFFFF;
   overflow: auto; }
+  .modal form {
+    display: flex;
+    flex-direction: column; }
   .modal .input {
     margin: 16px; }
   .modal .confirm {
@@ -1495,6 +1498,9 @@ button.swiper-pagination-bullet {
   z-index: 300;
   background-color: #FFFFFF;
   overflow: auto; }
+  .modal form {
+    display: flex;
+    flex-direction: column; }
   .modal .input {
     margin: 16px; }
   .modal .confirm {
